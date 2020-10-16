@@ -1,0 +1,14 @@
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'GroupE', 'team1': 'Chelsea', 'team2': 'Bayer Leverkusen', 'team1goals': '2', 'team2goals': '0'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'GroupE', 'team1': 'Chelsea', 'team2': 'KRC Genk', 'team1goals': '5', 'team2goals': '0'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'GroupE', 'team1': 'Chelsea', 'team2': 'Valencia CF', 'team1goals': '3', 'team2goals': '0'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'R16', 'team1': 'Chelsea', 'team2': 'SSC Napoli', 'team1goals': '3', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'QF', 'team1': 'Chelsea', 'team2': 'SL Benfica', 'team1goals': '2', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'SF', 'team1': 'Chelsea', 'team2': 'Barcelona', 'team1goals': '1', 'team2goals': '0'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'final', 'team1': 'Chelsea', 'team2': 'Bayern Munich', 'team1goals': '5', 'team2goals': '4'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'GroupE', 'team1': 'Valencia CF', 'team2': 'Chelsea', 'team1goals': '1', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'GroupE', 'team1': 'KRC Genk', 'team2': 'Chelsea', 'team1goals': '1', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'GroupE', 'team1': 'Bayer Leverkusen', 'team2': 'Chelsea', 'team1goals': '2', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'R16', 'team1': 'SSC Napoli', 'team2': 'Chelsea', 'team1goals': '3', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'QF', 'team1': 'SL Benfica', 'team2': 'Chelsea', 'team1goals': '0', 'team2goals': '1'}
+{'competition': 'UEFA Champions League', 'year': 2011, 'round': 'SF', 'team1': 'Barcelona', 'team2': 'Chelsea', 'team1goals': '2', 'team2goals': '2'}
+28
